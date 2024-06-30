@@ -1,11 +1,11 @@
 # Image-Recognition-Capability-of-Multimodal-Models
 
-为了促进小模型在图像文本描述任务上的性能提升，本研究发布两个**高质量的中文表情包数据集**，并利用  **Gemini-1.5-pro，Gemini-1.5-flash，Gemini-1.0-pro-vision，gpt4o，Yi-Vision** 五种大型语言模型 (LLM) 对数据集进行高质量的标注，生成丰富的图像-文本描述。
+为了促进小模型在图像文本描述任务上的性能提升，本研究发布两个**高质量的中文表情包数据集**，并利用  **Gemini-1.5-pro，Gemini-1.5-flash，Gemini-1.0-pro-vision，gpt4o，claude-3.5-sonnet，Yi-Vision** 六种大型语言模型 (LLM) 对数据集进行高质量的标注，生成丰富的图像-文本描述。
 
 **数据集特点:**
 
 * **数据规模**:  包含两套规模可观的中文表情包数据，涵盖多种常见表情包类型。
-* **高质量标注**:  采用 **Gemini-1.5-pro，Gemini-1.5-flash，Gemini-1.0-pro-vision，gpt4o，Yi-Vision** 五种先进的LLM进行标注，确保描述文本的准确性、流畅性和丰富性。
+* **高质量标注**:  采用 **Gemini-1.5-pro，Gemini-1.5-flash，Gemini-1.0-pro-vision，gpt4o，claude-3.5-sonnet，Yi-Vision** 六种先进的LLM进行标注，确保描述文本的准确性、流畅性和丰富性。
 * **多样化描述**:   每张图片配备多个不同风格的描述文本，涵盖客观描述、主观感受、幽默解读等多个维度，提升数据集的多样性。
 
 **数据集价值**:
