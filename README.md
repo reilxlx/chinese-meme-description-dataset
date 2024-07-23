@@ -23,7 +23,5 @@
 **展望**:  
 
 本数据集的发布将为图像文本描述领域的研究提供有力支持，推动小模型在该领域取得更优异的性能，并促进中文表情包的文化传播与理解。 
-
-
-
+本项目涉及的原始图片数据集可从以下链接下载： [emo-visual-data](https://github.com/LLM-Red-Team/emo-visual-data)、[ChineseBQB](https://github.com/zhaoolee/ChineseBQB).</br>
 本项目表情包描述信息数据也可从以下链接处获取：https://huggingface.co/datasets/REILX/chinese-meme-description-dataset
