@@ -26,4 +26,4 @@
 
 
 
-本项目表情包描述信息数据也可从以下链接处获取：https://huggingface.co/datasets/REILX/text-description-of-the-meme
+本项目表情包描述信息数据也可从以下链接处获取：https://huggingface.co/datasets/REILX/chinese-meme-description-dataset
